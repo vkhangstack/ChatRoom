@@ -1,7 +1,7 @@
 {
   "name": "chatroom",
   "version": "1.0.0",
-  "description": "Realtime chat app with websockets using Node.js, Express and Socket.io with Vanilla JS on the frontend with a custom UI",
+  "description": "Realtime chat app with web sockets using Node.js, Express and Socket.io with Vanilla JS on the frontend with a custom UI",
   "main": "server.js",
   "scripts": {
     "start": "nodemon server.js",
@@ -12,7 +12,7 @@
     "url": "git+https://github.com/vkhangstack/ChatRoom.git"
   },
   "keywords": [
-    "charroom"
+    "chatroom"
   ],
   "author": "hx10r",
   "license": "ISC",
